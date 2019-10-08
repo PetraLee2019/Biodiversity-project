@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# Belly Button Biodiversity
+# Belly Button Biodiversityzz
 
-![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
+![Bacteria by filterforge.com](Images/microbes-sem.jpg)
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
@@ -101,6 +100,7 @@ Use Flask API starter code to serve the data needed for your plots.
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
-=======
 
->>>>>>> fd8d102f86438645dfbe1cee899d2b882351547a
+
+![alt tag](https://github.com/PetraLee2019/Visualizing-Data-with-Leaflet/blob/master/Images/Satellite.png?raw=true)
+![alt tag](https://github.com/PetraLee2019/Visualizing-Data-with-Leaflet/blob/master/Images/Map.png?raw=true)
