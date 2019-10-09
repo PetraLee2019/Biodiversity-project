@@ -1,12 +1,9 @@
-# Belly Button Biodiversityzz
-=======
+# Belly Button Biodiversity
 https://plotly-petralee-2019.herokuapp.com/
 
-# Belly Button Biodiversity
+![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
 
-![Bacteria by filterforge.com](bacteria_by_filterforgedotcom.jpg)
-
-In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
+In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-buttox  n-biodiversity/).
 
 ### Before You Begin
 
