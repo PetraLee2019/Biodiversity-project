@@ -30,9 +30,7 @@ Use Plotly.js to build interactive charts for your dashboard.
 - Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the Weekly Washing Frequency obtained from the route /wfreq/<sample>
 - Modify the example gauge code to account for values ranging from 0 - 9
 - Update the chart whenever a new sample is selected
-
-![Example Dashboard Page](https://github.com/PetraLee2019/Plotly/blob/master/newfolder/Images/dashboard_part1.png?raw=true)
-![Example Dashboard Page](https://github.com/PetraLee2019/Plotly/blob/master/newfolder/Images/dashboard_part2.png?raw=true)
+![Example Dashboard Page](https://github.com/PetraLee2019/Belly-Button-Biodiversity/blob/master/newfolder/Images/gauge.png?raw=true)
 
 ## Step 2 - Heroku
 Deploy the Flask App to Heroku
