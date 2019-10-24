@@ -2,7 +2,7 @@
 https://plotly-petralee-2019.herokuapp.com/
 ## Background
 Full-Stack Data Analysis to build an interactive dashboard exploring the Belly Button Biodiversity Dataset using Plotly.js, Flask and Heroku.
-![alt tag](https://github.com/PetraLee2019/Plotly/blob/master/newfolder/Images/microbes-sem.jpg?raw=true)
+![alt tag](https://github.com/PetraLee2019/Plotly/blob/master/flask_app/Images/microbes-sem.jpg?raw=true)
 
 ## Objectives
 ## Step 1 - Plotly.js
@@ -13,7 +13,7 @@ Use Plotly.js to build interactive charts for your dashboard.
 - Use `otu_ids` as the labels for the pie chart.
 - Use `otu_labels` as the hovertext for the chart.
 
-  ![PIE Chart](https://github.com/PetraLee2019/Plotly/blob/master/newfolder/Images/pie_chart.png?raw=true)
+  ![PIE Chart](https://github.com/PetraLee2019/Plotly/blob/master/flask_app/Images/pie_chart.png?raw=true)
 
 - Create a Bubble Chart that uses data from your samples route (`/samples/<sample>`) to display each sample.
 - Use `otu_ids` for the x values.
@@ -21,7 +21,7 @@ Use Plotly.js to build interactive charts for your dashboard.
 - Use `sample_values` for the marker size.
 - Use `otu_ids` for the marker colors.
 - Use `otu_labels` for the text values.
-  ![Bubble Chart](https://github.com/PetraLee2019/Plotly/blob/master/newfolder/Images/bubble_chart.png?raw=true)
+  ![Bubble Chart](https://github.com/PetraLee2019/Plotly/blob/master/flask_app/Images/bubble_chart.png?raw=true)
 
 - Display the sample metadata from the route `/metadata/<sample>`
 - Display each key/value pair from the metadata JSON object somewhere on the page.
@@ -30,7 +30,7 @@ Use Plotly.js to build interactive charts for your dashboard.
 - Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the Weekly Washing Frequency obtained from the route /wfreq/<sample>
 - Modify the example gauge code to account for values ranging from 0 - 9
 - Update the chart whenever a new sample is selected
-![Example Dashboard Page](https://github.com/PetraLee2019/Belly-Button-Biodiversity/blob/master/newfolder/Images/gauge.png?raw=true)
+![Example Dashboard Page](https://github.com/PetraLee2019/Belly-Button-Biodiversity/blob/master/flask_app/Images/gauge.png?raw=true)
 
 ## Step 2 - Heroku
 Deploy the Flask App to Heroku
